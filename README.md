@@ -71,6 +71,7 @@ The leading platforms in AI transcription and meeting intelligence.
 - **[Char (anarlog)](https://github.com/fastrepl/anarlog)** 📝 — Open-source Granola alternative. 🍎 🪟
 - **[Pensieve](https://github.com/lukasbach/pensieve)** 🧠 — Local-only desktop app. 🍎 🪟
 - **[Screenpipe](https://github.com/screenpipe/screenpipe)** 🎥 — 24/7 local screen + mic capture with automatic meeting detection; Whisper transcripts indexed for AI search and agents (Ollama). 🍎 🪟 🐧
+- **[akou](https://github.com/GeiserX/akou)** 📞 — Bot-free call recorder with on-device transcription, speaker labels and timestamped notes; Claude Code or Codex can question a call over MCP. 🍎
 
 ### 💻 Local Transcription Tools
 - **[Ownscribe](https://github.com/paberr/ownscribe)** ⌨️ — CLI-based using WhisperX. 💻
